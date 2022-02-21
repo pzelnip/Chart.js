@@ -282,4 +282,4 @@ const chart = new Chart(ctx, {
 });
 ```
 
-Another example usage of these callbacks can be found on [Github](https://github.com/chartjs/Chart.js/blob/master/samples/advanced/progress-bar.html): this sample displays a progress bar showing how far along the animation is.
+Another example usage of these callbacks can be found on [Github](https://www.chartjs.org/docs/latest/samples/advanced/progress-bar.html): this sample displays a progress bar showing how far along the animation is.
